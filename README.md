@@ -1,11 +1,12 @@
 # RichRDF
 </br>
 RichRDF is a web-based tool that works on enriching the existing Food, Energy, and Water (FEW) datasets with semantically related facts and images.
-
+</br></br>
 
 [A video to show how RichRDF works](https://youtu.be/vyHgh4LgKCo/)
 
-
+</br>
+</br>
 
 **Simple input:**</br>
 `<http://catalog.data.gov/dataset=?food/ft,VITD,cheese,&ft> <http://www.w3.org/1999/02/22-rdf-syntax-ns#water_(g)> "14.03" .
