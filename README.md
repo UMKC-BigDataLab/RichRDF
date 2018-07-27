@@ -3,10 +3,14 @@
 RichRDF is a web-based tool that works on enriching the existing Food, Energy, and Water (FEW) datasets with semantically related facts and images.
 </br></br>
 
-# Publications
-Mohamed Gharibi, Praveen Rao, Nouf Alrasheeh. "RichRDF: A Tool for Enriching Food, Energy, and Water Datasets with Semantically Related Facts and Images." To appear in the [17th International Semantic Web Conference (ISWC 2018)](http://iswc2018.semanticweb.org), pages 1-4, Monterrey, CA. (demo)
-
 [A video to show how RichRDF works](https://youtu.be/vyHgh4LgKCo/)
+
+# References
+1. Mohamed Gharibi, Praveen Rao, Nouf Alrasheeh. "RichRDF: A Tool for Enriching Food, Energy, and Water Datasets with Semantically Related Facts and Images." To appear in the [17th International Semantic Web Conference (ISWC 2018)](http://iswc2018.semanticweb.org), 4 pages, Monterrey, CA, 2018. (demo)
+
+2. Praveen Rao, Anas Katib, Daniel E. Barron Lopez. "A Knowledge Ecosystem for the Food, Energy, and Water System." In the KDD 2016 Workshop on Data Science for Food, Energy and Water (DSFEW), 4 pages, San Francisco, CA, 2016. (position paper)
+
+
 
 </br>
 
