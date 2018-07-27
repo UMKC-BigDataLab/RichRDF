@@ -14,6 +14,8 @@ RichRDF is a web-based tool that works on enriching the existing Food, Energy, a
 
 </br>
 
+**HOWTO**
+
 **Simple input:**</br>
 `<http://catalog.data.gov/dataset=?food/ft,VITD,cheese,&ft> <http://www.w3.org/1999/02/22-rdf-syntax-ns#water_(g)> "14.03" .
 <http://catalog.data.gov/dataset=?food/ft,butter,mlcrm&salt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#water_(g)> "12.23" .`
