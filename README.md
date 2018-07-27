@@ -34,6 +34,9 @@ _:99036406 <http://www.w3.org/1999/02/22-rdf-syntax-ns#IURLs_cheese> <http://www
 _:99036406 <http://www.w3.org/1999/02/22-rdf-syntax-ns#IURLs_butter> <http://www.image-net.org/api/text/imagenet.synset.geturls?wnid=n07848338> <https://catalog.data.gov/dataset=?food$food_ABBREV> .`
 
 
+**Future Work:**
+1. To produce RDF quads for publishing on Linked Data
+
 **References:** </br>
 [NLTK](https://www.nltk.org/)</br>
 [ConceptNet](http://conceptnet.io/)</br>
